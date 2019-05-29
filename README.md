@@ -4,7 +4,7 @@ This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on P
 ########################################################################
 I just add a sample for detecting mask of pallet; unmanned forklift need to konw pallet and pallet pose, so first I just detect a mask of the pallet
 
-![Example](Screenshot from 2019-05-29 10-40-25.png)
+![](Screenshotfrom2019-05-29 10-40-25.png)
 
 
 #######################################################################
